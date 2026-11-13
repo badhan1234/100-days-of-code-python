@@ -1,2 +1,9 @@
 # 100-days-of-code-python
-The projects from the 100 Days of Code Python course
+# 100 Days of Code: Python
+
+I keep the all files in this folder which i learnt and practise by myself from these course .
+
+The tools i Used :
+- Python
+- PyCharm
+- Git ও GitHub
