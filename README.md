@@ -6,4 +6,4 @@ I keep the all files in this folder which i learnt and practise by myself from t
 The tools i Used :
 - Python
 - PyCharm
-- Git ও GitHub
+- Git and GitHub
